@@ -1,0 +1,25 @@
+
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.container .box {
+  width: 450px;
+  height: 500px;
+  margin-top: 50px;
+  margin-left: 300px;
+  /* #display: inline-block; */
+}
+
+.container .btn-secondary {
+  margin-left: 20px;
+}
+
+.certificate {
+  margin-top: 50px;
+}
+
+#upload_button {
+
+}
